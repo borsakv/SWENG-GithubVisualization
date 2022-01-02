@@ -39,7 +39,7 @@ This is my submission repository for the GitHub API assignment for the Software 
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/Followers%20vs%20Following%20Chart%20(cppavel).PNG?raw=true" width=400>
 
-Thank you to Pvale (https://github.com/cppavel) for allowing me to use his profile data in my submission.
+Thank you to Pavle (https://github.com/cppavel) for allowing me to use his profile data in my submission.
 
 # How to Run
 **NOTE**: Make sure that you have Python installed on your system and have a valid GitHub Access Token.
