@@ -3,16 +3,16 @@ This is my submission repository for the GitHub API assignment for the Software 
 
 # Program Explenation
 **JSON** - Generates a JSON file of the scraped information for any future use. <br />
-My own profile:
+- My own profile:
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/JSON%20(borsakv).PNG?raw=true" width=400>
 
-Friends profile: 
+- Friends profile: 
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/JSON%20(cppavel).PNG?raw=true" width=400>
 
 **Graphs** 
-Line graph of the number of commits by a user for each of their public repositories. <br />
+**Line graph of the number of commits by a user for each of their public repositories.** <br />
 - My own profile: 
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/Commits%20Chart%20(borsakv).PNG?raw=true" width=400>
@@ -21,7 +21,7 @@ Line graph of the number of commits by a user for each of their public repositor
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/Commits%20Chart%20(cppavel).PNG?raw=true" width=400>
 
-Multi-series pie chart of the languages used by the user, secondly broken down into how much of a language was used in different repositories. <br />
+**Multi-series pie chart of the languages used by the user, secondly broken down into how much of a language was used in different repositories.** <br />
 - My own profile: 
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/Language%20Chart%20(borsakv).PNG?raw=true" width=400>
@@ -30,7 +30,7 @@ Multi-series pie chart of the languages used by the user, secondly broken down i
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/Language%20Chart%20(cppavel).PNG?raw=true" width=400>
 
-Bar chart of the amount of followers and the amount of people the user follows. <br />
+**Bar chart of the amount of followers and the amount of people the user follows.** <br />
 - My own profile: 
 
 <img src="https://github.com/borsakv/SWENG-GithubVisualization/blob/main/Screenshots/Followers%20vs%20Following%20Chart%20(borsakv).PNG?raw=true" width=400>
