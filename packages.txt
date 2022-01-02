@@ -1,0 +1,3 @@
+pip install PyGithub
+pip install pygal
+pip install lxml
